@@ -1,6 +1,11 @@
- # 🌱 RevoQuiz – Algerian Revolution Quiz & Info App
+# 🌱 RevoQuiz – Algerian Revolution Quiz & Info App
+
 **Description**  
- Algerian Revolution Quiz &amp; Info App Explore Algeria’s fight for independence through this interactive desktop app. Learn key historical facts, test your knowledge with quizzes, and discover important events, leaders, and milestones. Engaging, educational, and fully in French for an authentic experience.
+<p align="center">
+  <img src="screenshots/icon.png" alt="App Icon" width="80">
+</p>
+
+Algerian Revolution Quiz & Info App. Explore Algeria’s fight for independence through this interactive desktop app. Learn key historical facts, test your knowledge with quizzes, and discover important events, leaders, and milestones. Engaging, educational, and fully in French for an authentic experience.
 
 ---
 
@@ -14,8 +19,18 @@
 ---
 
 ## Screenshots
-*(Insert screenshots here)*
 
+<p align="center">
+  <img src="screenshots/MainWindows.png" alt="Main Window" width="500">
+</p>
+
+<p align="center">
+  <img src="screenshots/Quiz_easy_level.png" alt="Quiz Easy Level" width="500">
+</p>
+
+<p align="center">
+  <img src="screenshots/Info_Historique.png" alt="Info Historique" width="500">
+</p>
 
 ---
 
